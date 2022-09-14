@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import qrCode from "../../assets/qr-code-component-main/images/image-qr-code.png";
 
 export const StyledQRCodeComponentWrapper = styled.div`
   width: 100%;
